@@ -14,9 +14,7 @@ using System.Text.Json;
  */
 namespace Program{
     public class Post {
-        private string user = "";
-        private string content = "";
-
+       
         // Short hand property for user with get and a set method
         public string User 
         { get; set; }
