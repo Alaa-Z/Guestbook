@@ -1,0 +1,15 @@
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/bin/Debug/net6.0/moment3
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/bin/Debug/net6.0/moment3.deps.json
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/bin/Debug/net6.0/moment3.runtimeconfig.json
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/bin/Debug/net6.0/moment3.dll
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/bin/Debug/net6.0/moment3.pdb
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/moment3.csproj.AssemblyReference.cache
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/moment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/moment3.AssemblyInfoInputs.cache
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/moment3.AssemblyInfo.cs
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/moment3.csproj.CoreCompileInputs.cache
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/moment3.dll
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/refint/moment3.dll
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/moment3.pdb
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/moment3.genruntimeconfig.cache
+/Users/yasser/Desktop/Miun courses /COURSE11-C#/moment3/obj/Debug/net6.0/ref/moment3.dll
